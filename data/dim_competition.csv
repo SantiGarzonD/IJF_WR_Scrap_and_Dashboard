@@ -55,8 +55,8 @@ competition.id,competition.name,competition.date_from
 2424,Aktau Asian Open 2022,2022-08-13
 2356,Tahiti Oceania Open 2022,2022-09-03
 2304,Oberwart European Open 2022,2022-09-03
-2307,Riccione European Open 2022,2022-09-10
 2398,Santo Domingo Panamerican Open 2022,2022-09-10
+2307,Riccione European Open 2022,2022-09-10
 2367,Lima Panamerican Open 2022,2022-09-17
 2459,Bogota Panamerican Open 2022,2022-09-24
 2298,Tashkent World  Championships Senior 2022,2022-10-06
@@ -67,3 +67,4 @@ competition.id,competition.name,competition.date_from
 2314,Dakar African Open 2022,2022-11-12
 2313,Yaounde African Open 2022,2022-11-20
 2471,Zouk Mikhael Asian Open 2022,2022-11-26
+2315,Tokyo Grand Slam 2022,2022-12-03

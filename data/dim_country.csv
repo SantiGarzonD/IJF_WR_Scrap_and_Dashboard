@@ -1,39 +1,122 @@
 competitor.id_country,competitor.country_name,competitor.country_ioc_code,competitor.id_continent
 1,Slovenia,slo,3
-2,Austria,aut,3
-3,Belgium,bel,3
-4,France,fra,3
-5,Armenia,arm,3
-6,Georgia,geo,3
-8,Azerbaijan,aze,3
-9,Ukraine,ukr,3
 10,Türkiye,tur,3
+100,Vietnam,vie,2
+101,Seychelles,sey,1
+102,Burkina Faso,bur,1
+106,Libya,lba,1
+108,Mali,mli,1
+109,Venezuela,ven,5
 11,Greece,gre,3
+110,Guatemala,gua,5
+111,Puerto Rico,pur,5
+112,El Salvador,esa,5
+113,Peru,per,5
+114,Uruguay,uru,5
+116,Costa Rica,crc,5
 12,North Macedonia,mkd,3
+120,Niger,nig,1
+129,Qatar,qat,2
 13,Japan,jpn,2
+131,"Hong Kong, China",hkg,2
+133,Syrian Arab Republic,syr,2
+135,Monaco,mon,3
+136,Albania,alb,3
+137,Luxembourg,lux,3
+138,Malta,mlt,3
 14,Kazakhstan,kaz,2
+140,Montenegro,mne,3
+142,Guam,gum,4
 15,Republic of Korea,kor,2
+151,Ghana,gha,1
+152,United Republic of Tanzania,tan,1
+153,Democratic Republic of the Congo,cod,1
+155,United Arab Emirates,uae,2
+158,Paraguay,par,5
 16,Belarus,blr,3
+160,San Marino,smr,3
+161,Botswana,bot,1
+162,Yemen,yem,2
+163,Kosovo,kos,3
+165,Barbados,bar,5
+166,Bahamas,bah,5
+167,Samoa,sam,4
 17,Uzbekistan,uzb,2
+171,Nigeria,ngr,1
+172,Jordan,jor,2
+173,Mozambique,moz,1
+174,Thailand,tha,2
+177,Madagascar,mad,1
+178,Kenya,ken,1
 18,Tunisia,tun,1
+180,Burundi,bdi,1
+181,Pakistan,pak,2
+182,Saudi Arabia,ksa,2
+183,Nepal,nep,2
+187,Togo,tog,1
+190,Iraq,irq,2
+191,Singapore,sgp,2
+192,Indonesia,ina,2
+193,Germany,ger,3
+194,Afghanistan,afg,2
+2,Austria,aut,3
 20,Spain,esp,3
+200,Benin,ben,1
+205,Bahrain,brn,2
+207,Central African Republic,caf,1
 21,Portugal,por,3
+210,Congo (SUSPENDED),cgo,1
+211,Chad,cha,1
+213,Comoros,com,1
+214,Cape Verde,cpv,1
+215,Djibouti,dji,1
+224,Gambia,gam,1
+225,Guinea-Bissau,gbs,1
 23,Italy,ita,3
+231,Guinea,gui,1
+233,Haiti,hai,5
+239,Jamaica,jam,5
 24,Israel,isr,3
+240,Kiribati,kir,4
+244,Lebanon,lbn,2
+245,Malawi,maw,1
 25,Poland,pol,3
+251,Mauritania,mtn,1
+253,Nicaragua,nca,5
 26,Great Britain,gbr,3
+260,Panama,pan,5
+262,Palestine,ple,2
+264,French Polynesia,pyf,4
+266,Romania,rou,3
+267,Rwanda,rwa,1
 27,Hungary,hun,3
+272,Sierra Leone,sle,1
+275,Serbia,srb,3
+276,Sri Lanka,sri,2
 28,Netherlands,ned,3
+284,Trinidad And Tobago,tto,5
+286,Uganda,uga,1
+287,Vanuatu,van,4
 29,Bulgaria,bul,3
+291,Zambia,zam,1
+292,Gabon,gab,1
+295,Macau,mac,2
+296,IJF,ijf,0
+297,New Caledonia,ncl,4
+3,Belgium,bel,3
 30,Cyprus,cyp,3
 31,Liechtenstein,lie,3
 32,Czech Republic,cze,3
+323,IJF Refugee Team,irt,1
+328,Refugee Olympic Team,eor,1
+329,ROC,roc,3
 33,Finland,fin,3
 34,Switzerland,sui,3
 35,Sweden,swe,3
 36,Lithuania,ltu,3
 38,Denmark,den,3
 39,Estonia,est,3
+4,France,fra,3
 40,Iceland,isl,3
 41,Ireland,irl,3
 42,Latvia,lat,3
@@ -44,12 +127,14 @@ competitor.id_country,competitor.country_name,competitor.country_ioc_code,compet
 47,Bosnia and Herzegovina,bih,3
 48,Cuba,cub,5
 49,Brazil,bra,5
+5,Armenia,arm,3
 50,Algeria,alg,1
 51,Canada,can,5
 53,Egypt,egy,1
 56,Australia,aus,4
 57,United States of America,usa,5
 59,Islamic Republic of Iran (SUSPENDED),iri,2
+6,Georgia,geo,3
 60,Morocco,mar,1
 61,Mongolia,mgl,2
 62,Turkmenistan,tkm,2
@@ -62,101 +147,17 @@ competitor.id_country,competitor.country_name,competitor.country_ioc_code,compet
 77,Argentina,arg,5
 78,Senegal,sen,1
 79,Angola,ang,1
+8,Azerbaijan,aze,3
 82,South Africa,rsa,1
 84,Kyrgyzstan,kgz,2
 85,India,ind,2
 86,Philippines,phi,2
 87,Kuwait,kuw,2
 88,Tajikistan,tjk,2
+9,Ukraine,ukr,3
 92,Ecuador,ecu,5
 93,Mexico,mex,5
 95,Dominican Republic,dom,5
 96,Chile,chi,5
 97,Colombia,col,5
 98,Côte d'Ivoire,civ,1
-100,Vietnam,vie,2
-101,Seychelles,sey,1
-102,Burkina Faso,bur,1
-106,Libya,lba,1
-108,Mali,mli,1
-109,Venezuela,ven,5
-110,Guatemala,gua,5
-111,Puerto Rico,pur,5
-112,El Salvador,esa,5
-113,Peru,per,5
-114,Uruguay,uru,5
-116,Costa Rica,crc,5
-120,Niger,nig,1
-129,Qatar,qat,2
-131,"Hong Kong, China",hkg,2
-133,Syrian Arab Republic,syr,2
-135,Monaco,mon,3
-136,Albania,alb,3
-137,Luxembourg,lux,3
-138,Malta,mlt,3
-140,Montenegro,mne,3
-142,Guam,gum,4
-151,Ghana,gha,1
-152,United Republic of Tanzania,tan,1
-153,Democratic Republic of the Congo,cod,1
-155,United Arab Emirates,uae,2
-158,Paraguay,par,5
-160,San Marino,smr,3
-161,Botswana,bot,1
-162,Yemen,yem,2
-163,Kosovo,kos,3
-165,Barbados,bar,5
-166,Bahamas,bah,5
-167,Samoa,sam,4
-171,Nigeria,ngr,1
-172,Jordan,jor,2
-173,Mozambique,moz,1
-174,Thailand,tha,2
-177,Madagascar,mad,1
-178,Kenya,ken,1
-180,Burundi,bdi,1
-181,Pakistan,pak,2
-182,Saudi Arabia,ksa,2
-183,Nepal,nep,2
-187,Togo,tog,1
-190,Iraq,irq,2
-191,Singapore,sgp,2
-192,Indonesia,ina,2
-193,Germany,ger,3
-194,Afghanistan,afg,2
-200,Benin,ben,1
-205,Bahrain,brn,2
-207,Central African Republic,caf,1
-210,Congo (SUSPENDED),cgo,1
-211,Chad,cha,1
-213,Comoros,com,1
-214,Cape Verde,cpv,1
-215,Djibouti,dji,1
-224,Gambia,gam,1
-225,Guinea-Bissau,gbs,1
-231,Guinea,gui,1
-233,Haiti,hai,5
-239,Jamaica,jam,5
-240,Kiribati,kir,4
-244,Lebanon,lbn,2
-245,Malawi,maw,1
-251,Mauritania,mtn,1
-253,Nicaragua,nca,5
-260,Panama,pan,5
-262,Palestine,ple,2
-264,French Polynesia,pyf,4
-266,Romania,rou,3
-267,Rwanda,rwa,1
-272,Sierra Leone,sle,1
-275,Serbia,srb,3
-276,Sri Lanka,sri,2
-284,Trinidad And Tobago,tto,5
-286,Uganda,uga,1
-291,Zambia,zam,1
-292,Gabon,gab,1
-295,Macau,mac,2
-296,IJF,ijf,0
-297,New Caledonia,ncl,4
-323,IJF Refugee Team,irt,1
-328,Refugee Olympic Team,eor,1
-329,ROC,roc,3

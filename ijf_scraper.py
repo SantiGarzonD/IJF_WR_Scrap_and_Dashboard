@@ -1,6 +1,5 @@
 # Import libreries
 import requests # For connecting with the IJF API
-import json # For working with json files
 import pandas as pd # For maninpulating the data in a tabular way
 
 # Create a loop and a starting value for it
