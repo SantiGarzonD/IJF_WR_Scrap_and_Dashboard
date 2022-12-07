@@ -106,4 +106,4 @@ An index.html document was created with the insertion of the Dashboard from Powe
 
 Then it was deployed on GitHub pages.
 
-Link: https://santigarzond.github.io/IJF_WR_Scrap_and_Dashboard/
+Link: <a target="_blank">https://santigarzond.github.io/IJF_WR_Scrap_and_Dashboard/</a> 
